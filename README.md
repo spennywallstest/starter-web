@@ -6,10 +6,14 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-modified in working directory
+modified in working directory -> staged area
 
 ## Deployment
 
 Sample website with plenty of files for demos
 
 ## How to contribute 
+
+modified in working directory
+
+a change that is to be committed.
