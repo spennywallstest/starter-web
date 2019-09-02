@@ -17,3 +17,6 @@ Sample website with plenty of files for demos
 modified in working directory
 
 a change that is to be committed.
+
+### Copyright
+2019. git training
